@@ -1,6 +1,7 @@
 ## Hi there 👋
 <br> 
-yashika here!
+yashika here! i am new
+
 <!--
 **yashikadilliwal/yashikadilliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
